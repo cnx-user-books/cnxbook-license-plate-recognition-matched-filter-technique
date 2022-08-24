@@ -1,54 +1,19 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Techreport">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Techreport" authors="Jennifer Ding ,Omar Turk ,Sean Peters ,Sai Supreeth Mannava">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col11601</md:content-id>
-  <md:title>License Plate Recognition Matched Filter Technique</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>92727696-8618-49eb-b965-b7e5afd4051e</md:uuid>
-<md:slug>license-plate-recognition-matched-filter-technique</md:slug>
-</metadata>
-
+    <md:content-id>col11601</md:content-id>
+    <md:title>License Plate Recognition Matched Filter Technique</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>92727696-8618-49eb-b965-b7e5afd4051e</md:uuid>
+    <md:slug>license-plate-recognition-matched-filter-technique</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m48258"/>
-        
-      
-    
-    
-      <col:module document="m48269"/>
-        
-      
-    
-    
-      <col:module document="m48280"/>
-        
-      
-    
-    
-      <col:module document="m48278"/>
-        
-      
-    
-    
-      <col:module document="m48281"/>
-        
-      
-    
-    
-      <col:module document="m48255"/>
-        
-      
-    
+    <col:module document="m48258"/>
+    <col:module document="m48269"/>
+    <col:module document="m48280"/>
+    <col:module document="m48278"/>
+    <col:module document="m48281"/>
+    <col:module document="m48255"/>
   </col:content>
 </col:collection>
